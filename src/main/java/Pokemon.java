@@ -16,6 +16,7 @@
  */
 public class Pokemon {
 
+
     /**
      * We now have 3 more sophisticated Pokemon types
      * that we should differentiate between.
